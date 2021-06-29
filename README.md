@@ -14,3 +14,9 @@ In my free time i play MC, especially i love anarchy, isnt the world with no rul
 ● MC - Doundeway<br/>
 ● Ip - 420.69.69.1<br/>
 ● Profession - Nigerian Prince
+
+<p> 
+  <h1 align="center">Visitor count<br>
+  <img src="https://profile-counter.glitch.me/yourusernamehere/count.svg" />
+    </h1>
+</p>
